@@ -1,7 +1,7 @@
 # Time complexity of Insertion Sort Algorithm
 
-# Worst Case  && Average Case =  O(n²)
+ Worst Case  && Average Case =  O(n²)
 
-# Best Case =  O(n)
+ Best Case =  O(n)
 
-# Space Complexity = O(1)
+ Space Complexity = O(1)
